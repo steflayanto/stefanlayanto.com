@@ -1,2 +1,2 @@
-# www.stefanlayanto.com
+# stefanlayanto.com
 Personal Website
