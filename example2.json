@@ -1,5 +1,3 @@
-Content-Type: application/json
-...
 [
   {
     "uid": "urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efa6b",
@@ -7,5 +5,5 @@ Content-Type: application/json
     "titleText": "Amazon Developer Blog, week in review May 23rd",
     "mainText": "Meet Echosim. A new online community tool for developers that simulates the look and feel of an Amazon Echo.",
     "redirectionUrl": "https://developer.amazon.com/public/community/blog"
-  };
+  }
 ]
